@@ -1,0 +1,48 @@
+/* FONTS
+font-family: 'Roboto', sans-serif;
+font-family: 'Open Sans', sans-serif;
+*/
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgb(231, 231, 231);
+}
+
+nav {
+    background-color: #1d1d1d;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 1.5rem;
+}
+
+nav a {
+    color: #007bff;
+}
+
+#main {
+    margin-top: 40px;
+}
+
+li {
+    margin: 10px;
+}
+
+.card {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h5 {
+    margin-top: 15px;
+    font-size: 1.5rem;
+}
+
+#resources li {
+    margin: 5px;
+}
+
+.dropdown {
+    margin-top: 8px;
+    margin-left: 16px;
+    margin-right: 16px;
+}
