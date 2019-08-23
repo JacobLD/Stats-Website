@@ -15,15 +15,11 @@ nav {
     font-size: 1.5rem;
 }
 
-nav a {
-    color: #007bff;
-}
-
 #main {
     margin-top: 40px;
 }
 
-li {
+#marginlist {
     margin: 10px;
 }
 
@@ -41,8 +37,24 @@ h5 {
     margin: 5px;
 }
 
+nav p {
+    margin-bottom: 0;
+}
+
+#stat276h1 {
+    margin-bottom: 20;
+}
+
+#examSchedules ul {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
 .dropdown {
-    margin-top: 8px;
-    margin-left: 16px;
-    margin-right: 16px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.dropdown button {
+    width: auto;
 }
