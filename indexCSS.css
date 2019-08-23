@@ -58,3 +58,8 @@ nav p {
 .dropdown button {
     width: auto;
 }
+
+.alert-danger {
+    background-color: red;
+    font-size: 1.5rem;
+}
